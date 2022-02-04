@@ -1,6 +1,6 @@
-## First appointment template
-It has only a minimal set of functions and a very simple appearance
+## Second appointment template
+It has more features then widget and a calendar view of time selection.
 
-[Live demo](https://1bit-nvrsk.na4u.ru/umc-templates/widget/)
+[Live demo](https://1bit-nvrsk.na4u.ru/umc-templates/popup/dist)
 
 You can see more templates on other branches of this repo
